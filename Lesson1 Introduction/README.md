@@ -27,6 +27,3 @@ https://github.com/taipeitechmmslab/MMSLAB-TF2/blob/master/Lab7.ipynb<br>
 ![](https://i.imgur.com/R35Jk8L.jpg)
 ![](https://i.imgur.com/80ZP3qq.jpg)
 ![](https://i.imgur.com/Qmqtv1t.jpg)
-
-
-
