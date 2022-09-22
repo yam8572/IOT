@@ -5,10 +5,10 @@
 1、PyTorch 2、Tesorflow2.0(含Keras)
 
 **學 python :**
-1. python cheatsheet https://github.com/ehmatthes/pcc_2e
-2. 彭彭 python    https://www.youtube.com/channel/UCguZS-y7codLSt6vpkVdnKg
-3. python 自學聖經(Option) 書
-4. udemy the complete python course (建議不要買超過1000元的課程)
+1. python cheatsheet <br>https://github.com/ehmatthes/pcc_2e
+2. 彭彭 python<br>   https://www.youtube.com/channel/UCguZS-y7codLSt6vpkVdnKg
+3. python 自學聖經(Option) 書<br>
+4. udemy the complete python course (建議不要買超過1000元的課程)<br>
     https://www.udemy.com/course/the-complete-python-course/<br>
     Udemy 偏技術<br>
     Coursera(偏學術) https://zh-tw.coursera.org/<br>
