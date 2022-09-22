@@ -12,7 +12,8 @@
     https://www.udemy.com/course/the-complete-python-course/<br>
     Udemy 偏技術<br>
     Coursera(偏學術) https://zh-tw.coursera.org/<br>
-<br>   
+<br>
+
 **Book_李宏毅老師機器學習課程筆記**
 https://hackmd.io/@shaoeChen/B1CoXxvmm/https%3A%2F%2Fhackmd.io%2Fc%2FB1CoXxvmm%2Fedit%3Fedit<br>
 **李宏毅 機器學習 (建議看2017年)**
