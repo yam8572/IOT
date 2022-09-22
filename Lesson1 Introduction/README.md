@@ -14,11 +14,11 @@
     Coursera(偏學術) https://zh-tw.coursera.org/<br>
 <br>
 
-**Book_李宏毅老師機器學習課程筆記**
+**Book_李宏毅老師機器學習課程筆記**<br>
 https://hackmd.io/@shaoeChen/B1CoXxvmm/https%3A%2F%2Fhackmd.io%2Fc%2FB1CoXxvmm%2Fedit%3Fedit<br>
-**李宏毅 機器學習 (建議看2017年)**
+**李宏毅 機器學習 (建議看2017年)**<br>
 https://speech.ee.ntu.edu.tw/~hylee/ml/2017-spring.php<br>
-**taipeitechmmslab/MMSLAB-TF2 Tensorflow**
+**taipeitechmmslab/MMSLAB-TF2 Tensorflow**<br>
 https://github.com/taipeitechmmslab/MMSLAB-TF2<br>
 https://github.com/taipeitechmmslab/MMSLAB-TF2/blob/master/Lab7.ipynb<br>
 
